@@ -1,0 +1,48 @@
+{
+    "players": [
+        {
+            "nome": "Joao",
+            "pontos": 50
+        },
+        {
+            "nome": "Amorim",
+            "pontos": 45
+        },
+        {
+            "nome": "Leo",
+            "pontos": 35
+        },
+        {
+            "nome": "Renato",
+            "pontos": 30
+        },
+        {
+            "nome": "Mauricio",
+            "pontos": 25
+        },
+        {
+            "nome": "Ricardo",
+            "pontos": 20
+        },
+        {
+            "nome": "Maria",
+            "pontos": 15
+        },
+        {
+            "nome": "Gabriel",
+            "pontos": 10
+        },
+        {
+            "nome": "Pedro",
+            "pontos": 5
+        },
+        {
+            "nome": "Jorge",
+            "pontos": 0
+        },
+        {
+            "nome": "Teste",
+            "pontos": 0
+        }
+    ]
+}
